@@ -10,7 +10,7 @@ This repository contains a simple implementation of **Flow Matching**, a generat
 - **Image Visualizations**: The following visualization shows the results of generated samples at various timepoints from 0 to 1 second.
   ![Flow Matching Visualization](images/fm_visualization.png)
 
-- **Flow Matching vs Diffusion Models**: Below are the comparisons between Flow Matching and Diffusion Models at different sampling steps:
+- **Flow Matching vs [Diffusion Models](https://github.com/duongngockhanh/denoising-diffusion-pytorch)**: Below are the comparisons between Flow Matching and Diffusion Models at different sampling steps:
   - **1000 steps**: 
     ![FM vs Diffusion - 1000 Steps](images/fmdm_step1000.png)
   - **500 steps**: 
